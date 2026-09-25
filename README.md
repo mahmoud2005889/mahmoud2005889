@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud2005889" alt="mahmoud2005889" /></a> </p>
 
-- 🌱 I’m currently learning **Digital ic design**
+- 🌱 I’m currently learning **Analog IC Design**
 
 - 💬 Ask me about **VHDL , Verilog**
 
